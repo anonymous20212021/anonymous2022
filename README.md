@@ -35,7 +35,7 @@ To run the code,  features for the Tao-caption dataset are needed. Please downlo
 
 ## Evaluation
 
-To reproduce the results reported in our paper, download the pretrained model file [TaVD.pth](https://taocaption.oss-cn-hangzhou.aliyuncs.com/TaVD_data/TaVD.pth) and place it in the Tao_data folder.
+To reproduce the results reported in our paper, download the pretrained model file [TaVD.pth](https://taocaption.oss-cn-hangzhou.aliyuncs.com/TaVD_data/TaVD.pth) and place it in the TaVD_data folder.
 
 Run `python test.py` 
 
